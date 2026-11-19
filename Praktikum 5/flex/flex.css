@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content:space-around;
+    backhground-color: #antiqueWhite;
+    padding: 10px;
+}
+
+img{
+    widht : 250px;
+    height : 250px;
+    Object-fit: cover;
+    margin : 5px;
+     
